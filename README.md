@@ -56,6 +56,3 @@ Proud builder @bestis1 — a collection of tools designed to help people stop wa
 - Email: **contact@bestis1.com**
 - Website: **https://bestis1.com**
 
-✔ LinkedIn About section (final version)  
-
-Just tell me what you want next.
