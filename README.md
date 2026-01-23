@@ -1,11 +1,13 @@
-Smart tools that prevent you from wasting time and money
+- Smart tools that prevent you from wasting time and money
+- Transform everyday problems into simple, free tools. No registration needed. 
+- Our tools warn you before you make a wrong decision
 
 # Hi, I'm Mohammed 
 
 ### Full-stack Software Tools Maker • Automation • AI • Web Apps • Mobile Apps
 
 I build simple, fast, and helpful tools that save people **time and money**.  
-My work focuses on automation, AI tools, calculators, and problem-solving apps used across the Arab world.
+My work focuses on automation, AI tools, calculators, and problem-solving apps used worldwide.
 
 ### What I Do
 Software & Development Mastery
