@@ -12,7 +12,7 @@ Simple decisions can cost you a lot of **money** or **time**. These tools give y
 
 ---
 
-## 🛠️ Our Top Tools
+## 🛠️ Start Now; Use Some of Our Tools.
 
 ### 💸 Is This Loan a Trap?
 
