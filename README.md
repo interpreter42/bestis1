@@ -18,7 +18,7 @@ Simple decisions can cost you a lot of **money** or **time**. These tools give y
 
 Calculate the **real interest rate** before signing any contract. Avoid hidden fees and predatory lending practices.
 
-**[→ Use the Loan Calculator]((https://bestis1.github.io/Is-Your-Loan-a-Trap-/)**
+**[→ Use the Loan Calculator](https://bestis1.github.io/Is-Your-Loan-a-Trap-/)**
 
 ---
 
