@@ -22,6 +22,40 @@ Calculate the **real interest rate** before signing any contract. Avoid hidden f
 
 ---
 
+---
+
+## 📊 Is Your Project Profitable or Draining You?
+Find out the **real profit and loss** of your project with accurate calculations and detailed insights.
+
+> **Status:** ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-orange?style=flat-square)  
+> [→ Use the Profit Calculator](profit.html) *(Link will be active soon)*
+
+---
+
+## ⏱️ How Much Time Are You Losing Daily?
+Discover how much time you waste each day — see the **impact in real numbers** and take action.
+
+> **Status:** ![In Development](https://img.shields.io/badge/Status-In_Development-blue?style=flat-square)  
+> [→ Use the Time Tracker](time.html) *(Link will be active soon)*
+
+---
+
+## 💼 Is Your Salary Really Fair?
+Convert your salary into an **hourly wage** and understand your true earning value compared to industry standards.
+
+> **Status:** ![Planning](https://img.shields.io/badge/Status-Planning-lightgrey?style=flat-square)  
+> [→ Use the Salary Calculator](salary.html) *(Link will be active soon)*
+
+---
+
+## 📱 Are Your Followers Real or Fake?
+Calculate the **real engagement rate** of your social media account and detect fake followers instantly.
+
+> **Status:** ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-orange?style=flat-square)  
+> [→ Use the Engagement Calculator](instagram.html) *(Link will be active soon)*
+
+---
+
 ### 📊 Is Your Project Profitable or Draining You?
 
 Find out the **real profit and loss** of your project with accurate calculations and detailed insights.
