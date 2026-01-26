@@ -17,7 +17,7 @@ Simple decisions can cost you a lot of **money** or **time**. These tools give y
 ### 💸 Is This Loan a Trap?
 Calculate the **real interest rate** before signing any contract. Avoid hidden fees and predatory lending practices.
 
-**[→ Launch Loan Calculator](https://bestis1.github.io/Is-Your-Loan-a-Trap-/)**
+<a href="https://bestis1.github.io/Is-Your-Loan-a-Trap-/" target="_blank">**[→ Launch Loan Calculator]**</a>
 
 ---
 
@@ -26,22 +26,12 @@ Calculate the **real interest rate** before signing any contract. Avoid hidden f
 ### 📊 Is Your Project Profitable or Draining You?
 Find out the **real profit and loss** of your project with accurate calculations and detailed insights.
 > **Status:** ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-orange?style=flat-square)  
-> _[→ Use the Profit Calculator](profit.html) (Active Soon)_
+> <a href="profit.html" target="_blank">→ Use the Profit Calculator</a> *(Active Soon)*
 
 ### ⏱️ How Much Time Are You Losing Daily?
 Discover how much time you waste each day — see the **impact in real numbers** and take action.
 > **Status:** ![In Development](https://img.shields.io/badge/Status-In_Development-blue?style=flat-square)  
-> _[→ Use the Time Tracker](time.html) (Active Soon)_
-
-### 💼 Is Your Salary Really Fair?
-Convert your salary into an **hourly wage** and understand your true earning value.
-> **Status:** ![Planning](https://img.shields.io/badge/Status-Planning-lightgrey?style=flat-square)  
-> _[→ Use the Salary Calculator](salary.html) (Active Soon)_
-
-### 📱 Are Your Followers Real or Fake?
-Calculate the **real engagement rate** of your social media account and detect fake followers instantly.
-> **Status:** ![Coming Soon](https://img.shields.io/badge/Status-Coming_Soon-orange?style=flat-square)  
-> _[→ Use the Engagement Calculator](instagram.html) (Active Soon)_
+> <a href="time.html" target="_blank">→ Use the Time Tracker</a> *(Active Soon)*
 
 ---
 
@@ -49,12 +39,12 @@ Calculate the **real engagement rate** of your social media account and detect f
 
 | Website | Focus & Mission |
 | :--- | :--- |
-| **[bestis1.com](https://bestis1.com)** | Daily tools to save time and money. |
-| **[jawab.website](https://jawab.website)** | Arabic stories, quotes, and digital tools. |
-| **[goffeeshop.online](https://goffeeshop.online)** | Tools for coffee enthusiasts and café owners. |
-| **[medcolo.com](https://medcolo.com)** | Digital products and professional design tools. |
-| **[shadowraiths.net](https://shadowraiths.net)** | Simplified health and medical calculators. |
-| **[nailsalonsafety.com](https://nailsalonsafety.com)** | Safety tips and tools for nail care professionals. |
+| **[bestis1.com](https://bestis1.com)** | <a href="https://bestis1.com" target="_blank">Visit Site</a> |
+| **[jawab.website](https://jawab.website)** | <a href="https://jawab.website" target="_blank">Visit Site</a> |
+| **[goffeeshop.online](https://goffeeshop.online)** | <a href="https://goffeeshop.online" target="_blank">Visit Site</a> |
+| **[medcolo.com](https://medcolo.com)** | <a href="https://medcolo.com" target="_blank">Visit Site</a> |
+| **[shadowraiths.net](https://shadowraiths.net)** | <a href="https://shadowraiths.net" target="_blank">Visit Site</a> |
+| **[nailsalonsafety.com](https://nailsalonsafety.com)** | <a href="https://nailsalonsafety.com" target="_blank">Visit Site</a> |
 
 ---
 
